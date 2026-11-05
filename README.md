@@ -163,3 +163,5 @@ Please read [CONTRIBUTING.md](https://github.com/makeplane/plane/blob/master/CON
 ## License
 
 This project is licensed under the [GNU Affero General Public License v3.0](https://github.com/makeplane/plane/blob/master/LICENSE.txt).
+
+<!-- font repro -->
